@@ -1,0 +1,19 @@
+{
+  "name": "just-singleton",
+  "description": "javascript simple singleton",
+  "author": "Andrey Novikov <korvin0@gmail.com>",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "private": false,
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "repository": {
+    "url": "git+ssh://git@github.com/korvin0/singleton.git",
+    "type": "git"
+  },
+  "directories": {}
+}
